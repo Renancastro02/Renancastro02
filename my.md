@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Renancastro02
-- 👀 I’m interested in ...
+- 👀 I’m interested na área de Front-End, mas também pretendo estudar Back-End.
 - 🌱 I’m currently learning HTML, CSS e JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rcr.999br@gmail.com
